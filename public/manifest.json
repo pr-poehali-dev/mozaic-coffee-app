@@ -1,0 +1,27 @@
+{
+  "name": "Mozaic Coffee Tea",
+  "short_name": "Mozaic",
+  "description": "Премиум кофейня с авторскими напитками",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f1ec",
+  "theme_color": "#1e1712",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "https://cdn.poehali.dev/projects/acb0fa2f-c46a-444c-9dfc-beae128d8446/files/a330ed77-4a13-4fa5-b086-7fcfaf38a9a5.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.poehali.dev/projects/acb0fa2f-c46a-444c-9dfc-beae128d8446/files/a330ed77-4a13-4fa5-b086-7fcfaf38a9a5.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["food", "shopping"],
+  "screenshots": []
+}
